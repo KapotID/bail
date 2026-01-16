@@ -1,2 +1,0 @@
-# baileys-pro
-Beta Version
